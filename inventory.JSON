@@ -1,7 +1,0 @@
-{
-    "initial_items": [
-        {"name": "HTML Book", "quantity": 10},
-        {"name": "CSS Guide", "quantity": 15},
-        {"name": "Flask Tutorial", "quantity": 8}
-    ]
-}
